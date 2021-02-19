@@ -1,7 +1,7 @@
 <?php
 
 echo "hello work";
-echo "adicao de text";
+echo "adicao de texto";
 
 
 ?>
